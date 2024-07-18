@@ -1,1 +1,5 @@
 # Movie-recommender
+A movie recommendation system, using machine learning to predict or filter users' film preferences based on their prior decisions and actions.
+Every recommender system primarily consists of two components: users and items. Users receive movie predictions from the system, and the actual movies are the products.
+Filtering and predicting only the movies that a matching user is most likely to wish to see is the main objective of movie recommendation systems. The user information from the system's database is used by the ML algorithms for these recommendation systems. Based on information from the past, this data is used to forecast the user in question's behavior in the future.Therefore, the information about the prior movie choices and likes of just one person is used to generate similarity in content-based filtering.
+Collaborative filtering is used as well.This filtering technique is based on the interactions between the relevant person and other users. For the best outcomes, the system contrasts and compares these behaviors. It combines the film choices and usage patterns of several people.
